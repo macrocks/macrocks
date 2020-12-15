@@ -1,6 +1,6 @@
 ### Know About Me !! 👋
 
-Here are some ideas to get you started:
+Key Points to knwo about me:
 
 - 🔭 I’m currently working on ... Complex Digital transformation Insurance Project which is driven by Mulesoft Integration Platform while Guidewire hold Insurance system.
 - 🌱 I’m currently learning ... RPA and automation tools
