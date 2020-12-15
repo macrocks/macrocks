@@ -11,3 +11,4 @@ Key Points to knwo about me:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... Drive life with new learning and play with open source tools. Family is fun and keep them on priority.
 
+<img src="https://github-readme-stats.vercel.app/api?username=macrocks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
