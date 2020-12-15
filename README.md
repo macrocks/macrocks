@@ -7,7 +7,7 @@ Key Points to knwo about me:
 - 👯 I’m looking to collaborate on ... Mulesoft tools,Automation Tools which drives integration and make life easy.
 - 🤔 I’m looking for help with ... Mulesoft Code analysis tool
 - 💬 Ask me about ... Mulesoft,Java, Spring Framework, Solution architecture
-- 📫 How to reach me: ... ghorpade.a.g@gmail.com or https://twitter.com/amitghorpade  [Twitter @amitghorpade](https://twitter.com/amitghorpade)
+- 📫 How to reach me: ... [Gmail](ghorpade.a.g@gmail.com)  [Twitter @amitghorpade](https://twitter.com/amitghorpade)
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... Drive life with new learning and play with open source tools. Family is fun and keep them on priority.
 
