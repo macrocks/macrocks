@@ -2,7 +2,7 @@
 
 Key Points to knwo about me:
 
-- 🔭 I’m currently working on ... Complex Digital transformation Insurance Project which is driven by Mulesoft Integration Platform while Guidewire hold Insurance system.
+- 🔭 I’m currently working on ... working as freelance Mulesoft Integration Architect with UK's Eductional digital tranformation program.
 - 🌱 I’m currently learning ... RPA and automation tools
 - 👯 I’m looking to collaborate on ... Mulesoft tools,Automation Tools which drives integration and make life easy.
 - 🤔 I’m looking for help with ... Mulesoft Code analysis tool
